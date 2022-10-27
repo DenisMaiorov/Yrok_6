@@ -1,0 +1,15 @@
+/media/denis/D work/GeekBrains/Занятия/Знакомство с языками программирования/(семенары)/Урок 6. Двумерные массивы и рекурсия/Yrok 6/zadanie43/bin/Debug/net6.0/zadanie43
+/media/denis/D work/GeekBrains/Занятия/Знакомство с языками программирования/(семенары)/Урок 6. Двумерные массивы и рекурсия/Yrok 6/zadanie43/bin/Debug/net6.0/zadanie43.deps.json
+/media/denis/D work/GeekBrains/Занятия/Знакомство с языками программирования/(семенары)/Урок 6. Двумерные массивы и рекурсия/Yrok 6/zadanie43/bin/Debug/net6.0/zadanie43.runtimeconfig.json
+/media/denis/D work/GeekBrains/Занятия/Знакомство с языками программирования/(семенары)/Урок 6. Двумерные массивы и рекурсия/Yrok 6/zadanie43/bin/Debug/net6.0/zadanie43.dll
+/media/denis/D work/GeekBrains/Занятия/Знакомство с языками программирования/(семенары)/Урок 6. Двумерные массивы и рекурсия/Yrok 6/zadanie43/bin/Debug/net6.0/ref/zadanie43.dll
+/media/denis/D work/GeekBrains/Занятия/Знакомство с языками программирования/(семенары)/Урок 6. Двумерные массивы и рекурсия/Yrok 6/zadanie43/bin/Debug/net6.0/zadanie43.pdb
+/media/denis/D work/GeekBrains/Занятия/Знакомство с языками программирования/(семенары)/Урок 6. Двумерные массивы и рекурсия/Yrok 6/zadanie43/obj/Debug/net6.0/zadanie43.csproj.AssemblyReference.cache
+/media/denis/D work/GeekBrains/Занятия/Знакомство с языками программирования/(семенары)/Урок 6. Двумерные массивы и рекурсия/Yrok 6/zadanie43/obj/Debug/net6.0/zadanie43.GeneratedMSBuildEditorConfig.editorconfig
+/media/denis/D work/GeekBrains/Занятия/Знакомство с языками программирования/(семенары)/Урок 6. Двумерные массивы и рекурсия/Yrok 6/zadanie43/obj/Debug/net6.0/zadanie43.AssemblyInfoInputs.cache
+/media/denis/D work/GeekBrains/Занятия/Знакомство с языками программирования/(семенары)/Урок 6. Двумерные массивы и рекурсия/Yrok 6/zadanie43/obj/Debug/net6.0/zadanie43.AssemblyInfo.cs
+/media/denis/D work/GeekBrains/Занятия/Знакомство с языками программирования/(семенары)/Урок 6. Двумерные массивы и рекурсия/Yrok 6/zadanie43/obj/Debug/net6.0/zadanie43.csproj.CoreCompileInputs.cache
+/media/denis/D work/GeekBrains/Занятия/Знакомство с языками программирования/(семенары)/Урок 6. Двумерные массивы и рекурсия/Yrok 6/zadanie43/obj/Debug/net6.0/zadanie43.dll
+/media/denis/D work/GeekBrains/Занятия/Знакомство с языками программирования/(семенары)/Урок 6. Двумерные массивы и рекурсия/Yrok 6/zadanie43/obj/Debug/net6.0/ref/zadanie43.dll
+/media/denis/D work/GeekBrains/Занятия/Знакомство с языками программирования/(семенары)/Урок 6. Двумерные массивы и рекурсия/Yrok 6/zadanie43/obj/Debug/net6.0/zadanie43.pdb
+/media/denis/D work/GeekBrains/Занятия/Знакомство с языками программирования/(семенары)/Урок 6. Двумерные массивы и рекурсия/Yrok 6/zadanie43/obj/Debug/net6.0/zadanie43.genruntimeconfig.cache
